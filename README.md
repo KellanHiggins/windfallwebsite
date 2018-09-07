@@ -1,1 +1,1 @@
-# windfallwebsite
+Website for upcoming Sailing Game, WindFall
